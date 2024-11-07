@@ -20,18 +20,20 @@ Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace:
    ```bash
    git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
 
-Desafío 2: Crear una Tarjeta Minimalista
-Descripción
+## Desafío 2: Crear una Tarjeta Minimalista
+
+### Descripción
 Este proyecto consiste en la creación de una tarjeta minimalista, con un diseño limpio y sencillo que presenta información de manera clara y atractiva. La tarjeta incluye una imagen, un título, una breve descripción y un botón. El enfoque está en la estética simple y la usabilidad, aplicando principios de diseño modernos.
 
-Tecnologías utilizadas
+### Tecnologías utilizadas
 HTML: Para la estructura de la página y la tarjeta.
 CSS: Para la estilización, incluyendo un diseño responsive, bordes redondeados y sombras sutiles.
-Vista previa en vivo
-Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace: Tarjeta Minimalista - Proyecto en vivo
-[https://aventuraslis.github.io/Desafios-web-devchallange/](https://aventuraslis.github.io/Desafios-web-devchallange/Test2/)
 
-Instalación
+### Vista previa en vivo
+Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace: Tarjeta Minimalista - Proyecto en vivo
+https://aventuraslis.github.io/Desafios-web-devchallange/Test2/
+
+### Instalación
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
