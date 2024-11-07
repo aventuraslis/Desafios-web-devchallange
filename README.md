@@ -31,7 +31,7 @@ CSS: Para la estilización, incluyendo un diseño responsive, bordes redondeados
 
 ### Vista previa en vivo
 Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace: Tarjeta Minimalista - Proyecto en vivo
-https://aventuraslis.github.io/Desafios-web-devchallange/Test2/
+https://aventuraslis.github.io/Desafios-web-devchallange/Test2/index.html
 
 ### Instalación
 1. Clona este repositorio:
