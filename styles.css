@@ -83,10 +83,6 @@ a:hover {
     color: var(--color-enlace-hover);
 }
 
-hr {
-    border: solid 1px rgb(134, 134, 134);
-    width: 70%;
-}
 
 @media (max-width: 1024px) {
     .contenedor {
