@@ -1,0 +1,142 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #dbe1f3;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+}
+
+#contenedor {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    margin: 20px 0 0 0;
+    width: 90px;
+    height: 90px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 35px 0 15px 0;
+}
+
+p {
+    font-size: 17px;
+    width: 75%;
+    text-align: center;
+    margin: 0 0 40px 0;
+}
+
+h2 {
+    color: gray;
+    font-size: 12px;
+    font-weight: bolder;
+    margin: 15px 0 20px 0;
+}
+
+#formulario {
+    border-radius: 10px;
+    background-color: #f0f2f8;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 0 0 20px 0;
+}
+
+input {
+    margin: 20px 0 15px 0;
+    width: 90%;
+    height: 45px;
+    border: none;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #dbe1f3;
+}
+
+button {
+    background-color: rgb(56, 159, 255);
+    width: 90%;
+    height: 45px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: rgb(30, 139, 235);
+}
+
+
+@media (max-width: 1024px) {
+    #contenedor {
+        width: 75%;
+    }
+
+    img {
+        width: 85px;
+        height: 85px;
+    }
+
+    h1 {
+        font-size: 45px;
+    }
+
+    p {
+        font-size: 17px;
+        width: 80%;
+    }
+
+    #formulario {
+        width: 75%;
+    }
+}
+
+
+@media (max-width: 640px) {
+    #contenedor {
+        width: 95%;
+    }
+
+    img {
+        width: 80px;
+        height: 80px;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 25px;
+    }
+
+    p {
+        font-size: 15px;
+        width: 100%;
+    }
+
+    h2 {
+        font-size: 10px;
+    }
+
+    #formulario {
+        width: 95%;
+    }
+}
