@@ -37,3 +37,21 @@ https://aventuraslis.github.io/Desafios-web-devchallange/Test2/index.html
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
+
+## Desafío 3: Boletín Informativo
+
+### Descripción
+Este proyecto consiste en la creación de una página web sencilla para la suscripción a un boletín informativo. La página incluye un formulario que permite a los usuarios suscribirse ingresando su dirección de correo electrónico. El diseño es limpio y enfocado en la usabilidad.
+
+### Tecnologías utilizadas
+HTML
+CSS
+
+### Enlace al proyecto en vivo
+Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace: https://aventuraslis.github.io/Desafios-web-devchallange/
+
+### Instalación
+Clona este repositorio:
+```bash
+   git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
+
