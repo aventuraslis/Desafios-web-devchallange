@@ -55,14 +55,14 @@ Clona este repositorio:
 ```bash
 clone https://github.com/aventuraslis/Desafios-web-devchallange.git
 ```
-## Desafío 3: Boletín Informativo
+## Desafío 4: Lista de Artículos
 
 ### Descripción
-Este proyecto consiste en la creación de una página web sencilla para la suscripción a un boletín informativo. La página incluye un formulario que permite a los usuarios suscribirse ingresando su dirección de correo electrónico. El diseño es limpio y enfocado en la usabilidad.
+Este proyecto consiste en la creación de una página web que muestra una lista de artículos. Cada artículo contiene un título, una descripción corta y un enlace para leer más. El diseño es limpio y enfocado en la usabilidad, con un formato responsivo que se adapta a diferentes tamaños de pantalla.
 
 ### Tecnologías utilizadas
-HTML
-CSS
+HTML: Para la estructura básica de la página.
+CSS: Para el diseño y estilo de la página, incluyendo la disposición de los artículos en una cuadrícula responsiva.
 
 ### Enlace al proyecto en vivo
 Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace: https://aventuraslis.github.io/Desafios-web-devchallange/Test4/
