@@ -55,3 +55,23 @@ Clona este repositorio:
 ```bash
    git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
 
+
+## Desafío 4: Lista de Artículos
+Descripción
+Este proyecto consiste en la creación de una página web que muestra una lista de artículos. Cada artículo contiene un título y una descripción corta. El diseño es limpio y enfocado en la usabilidad, con un formato responsivo que se adapta a diferentes tamaños de pantalla.
+
+### Tecnologías utilizadas
+HTML: Para la estructura básica de la página.
+CSS: Para el diseño y estilo de la página, incluyendo la disposición de los artículos en una cuadrícula responsiva.
+Enlace al proyecto en vivo
+Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace:
+
+### Enlace al proyecto en vivo
+
+### Instalación
+Para trabajar con este proyecto de manera local, sigue estos pasos:
+
+Clona este repositorio:
+```bash
+   git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
+
