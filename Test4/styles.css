@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-y: auto;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    width: 80%;
+    margin: 40px 0 40px 0;
+    text-align: center;
+    font-family: "Sora", serif;
+}
+h1{
+    
+    font-size: 36px;
+}
+
+
+
+#caja{
+    width: 60%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 30px 0 30px 0;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    margin: auto 0;
+    border-radius: 15px;
+    
+}
+
+.sub-caja{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0 20px 0;
+}
+
+.micro-caja{
+    width: 100%;
+    height: auto;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+
+p{
+    font-family: "Sora", serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h2{
+    font-family: "Sora", serif;
+    font-size: 14px;
+    font-weight: normal;
+    margin: 15px 0 15px 0;
+    color: gray;
+}
+
+@media (max-width:1024px) {
+    h1{
+        font-size: 30px;
+    }
+    
+    #caja{
+        width: 70%;
+    }
+
+    p{
+        font-size: 18px;
+    }
+    
+}
+@media (max-width:640px) {
+    header{
+        width: 98%;
+        margin: 20px 0 40px 0;
+    }
+
+    h1{
+        font-size: 18px;
+    }
+    
+    #caja{
+        width: 85%;
+        margin: 0;
+        
+    }
+
+    .sub-caja{
+        margin: 10px 0 10px 0;
+    }
+    
+    .micro-caja{
+        margin-left: 20px;
+    }
+
+    p{
+        font-size: 13px;
+    }
+
+    img{
+        width: 100px;
+        height: 100px;
+    }
+
+    h2{
+        font-size: 12px;
+        margin: 5px 0 5px;
+    }
+    
+}
