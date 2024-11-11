@@ -28,7 +28,7 @@ body{
     align-items: center;
     justify-content: center;
     width: 90rem;
-    height: calc(100vh - 50px);
+    height: auto;
     overflow: hidden;
     border-radius: 10px;
 }
