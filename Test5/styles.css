@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #FAFAF9;
+}
+
+#contenedor{
+    display: flex;
+    flex-direction: row;
+    width: calc(100% - 162px);
+    height: auto;
+    font-family: "sora", serif;
+}
+
+#principal,#secundario{
+    flex: 1;
+}
+
+#secundario{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+}
+
+.sub-one, .sub-two{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.sub-one{
+    margin-bottom: 16px;
+}
+.sub-two{
+    margin-bottom: 16px;
+}
+
+.sub-one img:nth-of-type(1){
+    width: 100px;
+    height: auto; 
+    margin-right: 16px;
+}
+.sub-two img:nth-of-type(1){
+    width: 100px;
+    height: auto; 
+    margin-right: 16px;
+}
+
+.target{
+    padding: 20px;
+    width: 350px;
+    height: 160px;
+}
+
+.one{
+    align-self: flex-end;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.two{
+    align-self: flex-start;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
+    margin-left: 20px;
+}
+
+#emoji {
+    background-color: #F5C044;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+h1{
+    font-size: 36px;
+    padding: 16px 0 16px 0;
+}
+
+#text-principal{
+    font-size: 20px;
+    color: gray;
+    padding: 0 0 16px 0;
+}
+
+.text-secundario{
+    font-size: 16px;
+    font-weight: normal;
+    color: gray;
+}
+
+h4{
+    margin-bottom: 6px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: 5px;
+    color: gray;
+}
+
+.sub-principal{
+    display: flex;
+    flex-direction: row;
+    padding: 6px 6px 6px 0;
+    align-items: center;
+}
+
+@media (max-width: 1024px){
+    #contenedor{
+        flex-direction: column;
+    }
+    #principal{
+        width:100%;
+        flex: none;
+    }
+    #secundario{
+        width: 90%;
+        flex: none;
+        align-self: center;
+    }
+    #contenedor{
+        width: calc(100% - 90px);
+        gap: 20px;
+    }
+}
+
+@media (max-width: 640px){
+    #contenedor{
+        justify-self: start;
+        width: 95%;
+        margin-top: 20px;
+        margin-bottom: 10px;
+
+    }
+    #secundario{
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        background-color: red;
+        height: 400px;
+    }
+
+    .one, .two{
+        align-self: center;
+        margin: 0;
+    }
+}
+
+
