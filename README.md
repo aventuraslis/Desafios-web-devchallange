@@ -71,3 +71,23 @@ Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace: https://ave
 Clona este repositorio:
 ```bash
 git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
+```
+## Desafío 5: Página Testimonial de Google y Meta
+Descripción
+Este proyecto consiste en la creación de una página web que presenta testimonios de usuarios sobre los servicios de Google y Meta. La página está diseñada de manera limpia, con una estructura clara que destaca los comentarios de los usuarios y las valoraciones. El diseño es responsivo, adaptándose a diferentes tamaños de pantalla para mejorar la accesibilidad.
+
+### Tecnologías utilizadas
+
+HTML: Para la estructura básica de la página.
+CSS: Para el diseño y estilo de la página, con un formato responsivo que ajusta la disposición de los testimonios en varias resoluciones.
+Enlace al proyecto en vivo
+Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace:
+
+### Enlace al proyecto en vivo
+Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace: https://aventuraslis.github.io/Desafios-web-devchallange/Test4/
+
+### Instalación
+Clona este repositorio:
+```bash
+git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
+```
