@@ -18,15 +18,17 @@ body{
 #contenedor{
     font-family: 'Sora', sans-serif;
     width: calc(100vw - 50px);
-    height: calc(100vh - 50px);
+    height: auto;
+    margin: 20px 0 20px 0;
     display: flex;
 }
 
 .one{
     display: flex;
     align-items: center;
+    justify-content: center;
     width: 90rem;
-    height: auto;
+    height: calc(100vh - 50px);
     overflow: hidden;
     border-radius: 10px;
 }
@@ -193,6 +195,7 @@ i{
     }
 
     .one{
+        align-self: center;
         width: 100%;
         height: 800px;
         margin: 20px 0 20px 0;
@@ -205,6 +208,38 @@ i{
     img{
         width: 100%;
         height: auto;
+    }
+
+    h1{
+        font-size: 40px;
+        margin: 20px 0 20px 0;
+        width: 90%;
+    }
+
+    h2, p{
+        font-size: 25px;
+        margin: 20px 0 20px 0;
+        width: 90%;
+    }
+
+    #list-two{
+        width: 100%;
+        font-size: 20px;
+        margin: 0 0 20px 0;
+        padding-left: 40px;
+        font-weight: 100;
+    }
+    #list-one{
+        margin: 0;
+        font-size: 13px;
+    }
+
+    #price{
+        margin: 10px 0 30px 0;
+    }
+
+    #botones{
+        margin: 0;
     }
 }
 @media (max-width:640px) {
@@ -246,7 +281,6 @@ i{
     #list-one{
         font-size: 13px;
         margin: 0;
-        color: red;
     }
     #price{
         width: 90%;
