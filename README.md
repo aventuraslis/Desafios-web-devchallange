@@ -73,7 +73,8 @@ Clona este repositorio:
 git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
 ```
 ## Desafío 5: Página Testimonial de Google y Meta
-Descripción
+
+### Descripción
 Este proyecto consiste en la creación de una página web que presenta testimonios de usuarios sobre los servicios de Google y Meta. La página está diseñada de manera limpia, con una estructura clara que destaca los comentarios de los usuarios y las valoraciones. El diseño es responsivo, adaptándose a diferentes tamaños de pantalla para mejorar la accesibilidad.
 
 ### Tecnologías utilizadas
@@ -102,6 +103,30 @@ CSS: Para estilizar la página y darle un diseño responsivo, ajustando la dispo
 
 ### Enlace al proyecto en vivo
 Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace: https://aventuraslis.github.io/Desafios-web-devchallange/Test6/
+
+### Instalación
+Clona este repositorio:
+```bash
+git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
+```
+## Desafío 7: Página Web Sencilla de un Producto
+
+### Descripción
+Este proyecto consiste en crear una página web sencilla para presentar un producto utilizando únicamente HTML y CSS. La página está diseñada de manera minimalista para proporcionar una experiencia clara y directa al usuario. Se enfoca en mostrar el producto con su imagen, descripción, precio, y dos botones de acción: Agregar al carrito y Guardar en favoritos. El diseño es completamente responsivo, adaptándose a diferentes tamaños de pantalla, desde dispositivos de escritorio hasta móviles.
+
+### Tecnologías utilizadas
+HTML: Para construir la estructura básica de la página, organizando todos los elementos del producto de forma clara.
+CSS: Para aplicar estilo a la página, haciendo que el diseño sea visualmente atractivo y responsivo en diferentes dispositivos.
+
+### Características principales:
+Presentación visual atractiva del producto.
+Botón Agregar al carrito para simular una acción de compra.
+Botón Guardar en favoritos con un ícono de corazón, permitiendo al usuario agregar el producto a sus favoritos.
+Diseño responsivo que asegura una correcta visualización en dispositivos móviles, tablets y escritorios.
+
+### Enlace al proyecto en vivo
+Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace:
+https://aventuraslis.github.io/Desafios-web-devchallange/Test7/
 
 ### Instalación
 Clona este repositorio:
