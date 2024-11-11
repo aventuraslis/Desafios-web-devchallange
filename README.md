@@ -91,3 +91,20 @@ Clona este repositorio:
 ```bash
 git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
 ```
+## Desafío 6: Página de Presentación de Features
+Descripción
+Este proyecto se enfoca en crear una presentación visual de las secciones destacadas (features) de un servicio o producto. La página está estructurada de manera simple y atractiva, enfatizando cada feature con un diseño claro y minimalista. La disposición de los elementos se adapta a diferentes tamaños de pantalla, asegurando una experiencia de usuario óptima en cualquier dispositivo.
+
+### Tecnologías utilizadas
+
+HTML: Para construir la estructura de la página y organizar cada sección de feature.
+CSS: Para estilizar la página y darle un diseño responsivo, ajustando la disposición de los elementos en diferentes resoluciones.
+
+### Enlace al proyecto en vivo
+Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace: https://aventuraslis.github.io/Desafios-web-devchallange/Test6/
+
+### Instalación
+Clona este repositorio:
+```bash
+git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
+```
