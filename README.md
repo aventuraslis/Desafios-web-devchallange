@@ -133,3 +133,24 @@ Clona este repositorio:
 ```bash
 git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
 ```
+## Desafío 8: Tarjeta de Bloc
+Descripción: Este proyecto consiste en crear una tarjeta de bloc utilizando únicamente HTML y CSS. La tarjeta está diseñada para mostrar un contenido de forma visualmente atractiva, con un título, una pequeña descripción, y un área donde se puede ver más información o interactuar con la tarjeta. Está pensada para ser usada en aplicaciones o sitios web que necesiten mostrar contenido en bloques de forma clara y visualmente organizada.
+
+### Tecnologías utilizadas:
+#### HTML: Para crear la estructura básica de la tarjeta, organizando todos los elementos del contenido de manera eficiente.
+#### CSS: Para aplicar el estilo visual a la tarjeta, haciéndola atractiva y completamente responsiva en diferentes tamaños de pantalla.
+
+### Características principales:
+#### Presentación visual atractiva en forma de tarjeta.
+#### Diseño minimalista con un toque moderno.
+#### Diseño completamente responsivo que asegura que se vea bien en dispositivos de escritorio y móviles.
+
+### Enlace al proyecto en vivo:
+Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace:
+https://aventuraslis.github.io/Desafios-web-devchallange/Test8/
+
+### Instalación
+Clona este repositorio:
+```bash
+git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
+```
