@@ -19,7 +19,7 @@ body{
     top: 50%;
     left: 50%;
     background-color: white;
-    width: 21rem;
+    width: 25rem;
     transform: translate(-50%, -50%);
     border-radius: 10px;
 }
@@ -27,8 +27,8 @@ body{
 
 #fondo img {
     position: absolute;
-    width: 21rem;
-    top: 172px;
+    width: 25rem;
+    top: 13rem;
     left: 50%; 
     transform: translateX(-50%);
     z-index: 1;
@@ -37,7 +37,7 @@ body{
 
 #image img{
     border-radius: 10px;
-    width: 21rem;
+    width: 25rem;
     z-index: 0;
 }
 
@@ -53,12 +53,17 @@ h1{
     font-size: 24px;
 }
 
-h2,p{
+h2{
     font-size: 16px;
     font-weight: normal;
 }
 
+p{
+    color: rgb(58, 58, 58);
+}
+
 #contenido p{
+    color: rgb(58, 58, 58);
     width: 90%;
     margin-top: 15px;
 }
@@ -92,6 +97,7 @@ hr{
     }
     #fondo img{
         width: 19rem;
+        top: 10rem;
     }
     #image img{
         width: 19rem;
