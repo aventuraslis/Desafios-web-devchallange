@@ -176,3 +176,26 @@ Clona este repositorio:
 ```bash
 git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
 ```
+## Desafío 9: SECCION DE EQUIPOS
+
+### Descripción: Este proyecto consiste en una página sencilla de colaboradores organizados en un diseño de cuadrícula, utilizando HTML y CSS. Es una solución responsiva y visualmente atractiva para mostrar perfiles o información básica de un grupo de personas.
+
+### Tecnologías utilizadas:
+#### HTML: Para crear la estructura básica de la tarjeta, organizando todos los elementos del contenido de manera eficiente.
+#### CSS: Para aplicar el estilo visual a la tarjeta, haciéndola atractiva y completamente responsiva en diferentes tamaños de pantalla.
+
+### Características principales:
+#### Presentación visual atractiva en forma de tarjeta.
+#### Diseño minimalista con un toque moderno.
+#### Diseño completamente responsivo que asegura que se vea bien en dispositivos de escritorio y móviles.
+
+### Enlace al proyecto en vivo:
+Puedes ver el proyecto en vivo haciendo clic en el siguiente enlace:
+https://aventuraslis.github.io/Desafios-web-devchallange/Test10/
+
+### Instalación
+Clona este repositorio:
+```bash
+git clone https://github.com/aventuraslis/Desafios-web-devchallange.git
+```
+```
